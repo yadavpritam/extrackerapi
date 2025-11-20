@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker Backend API
 
 RESTful API built with Node.js, Express, and MongoDB for managing expenses.
@@ -159,3 +160,6 @@ Server errors return 500:
   "message": "Error message"
 }
 ```
+=======
+# extrackerapi
+>>>>>>> e63bfc7f2ff16da6cd41c9a36fb8524f9dd1191e
